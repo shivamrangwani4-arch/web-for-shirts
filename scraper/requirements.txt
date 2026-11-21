@@ -1,0 +1,4 @@
+# Python dependencies (Standard library is primarily used for zero-dependency reliability)
+# Optional libraries if expanding with custom parsers:
+requests>=2.31.0
+beautifulsoup4>=4.12.0
